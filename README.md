@@ -15,6 +15,7 @@ Here are my favorite university projects I've completed so far:
 
 | Course Subject | Description | 
 | :----- | :----: |
+| Metaheuristics in Combinatorial Optimization | Ore blending problem [Take a look](https://github.com/rafacoelho4/mistura_minerio) |
 | Data Structures II | Search algorithms analysis [Take a look](https://github.com/rafacoelho4/search-algorithms) |
 | Intro to Optimization | Modeling a staff scheduling problem [Take a look](https://github.com/rafacoelho4/staff-scheduling) | 
 | Image Processing | Action detection in survaillence footage [Take a look](https://github.com/rafacoelho4/action-detection) | 
