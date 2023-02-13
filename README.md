@@ -26,6 +26,7 @@ Here are my favorite university projects I've completed so far:
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%2300599python.svg?logo=python&logoColor=white)
 
 ## 📫 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
