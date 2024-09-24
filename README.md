@@ -2,7 +2,7 @@
 
 My name is **Rafael Coelho** and I am a Computer Science undergraduate in [Universidade Federal de Ouro Preto (UFOP)](https://ufop.br) in Brazil. 
 
-I am currently working on school projects as well as a research on Cascading Failures in a Multilayer Network.
+I am currently working on my end of course project on Heuristics for the Bin Packing Problem.
 
 Here's how you can reach me:
 
