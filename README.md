@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is **Rafael Coelho** and I am a Computer Science undergraduate in [Universidade Federal de Ouro Preto (UFOP)](https://ufop.br) in Brazil. 
+My name is **Rafael Coelho** and I got my Computer Science degree in [Universidade Federal de Ouro Preto (UFOP)](https://ufop.br) in 2025. 
 
-I am currently working on my end of course project on Heuristics for the Bin Packing Problem.
+My end of course thesis is on Simulated Annealing applied to the Bin Packing Problem with Conflitcs. 
 
 Here's how you can reach me:
 
